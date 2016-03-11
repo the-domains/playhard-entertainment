@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PlayHard Entertainment]]></title>
         <description><![CDATA[PlayHard Entertainment]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/playhard-entertainment/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 20:45:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 20:59:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/playhard-entertainment/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86bb1121-b574-47f0-9d25-f59802917239.png">]]></description>
-            <link>undefinedc55cef20-7dcb-40ec-acca-da328a5e4149/index.html</link>
+            <link>https://thegrid.ai/playhard-entertainment/c55cef20-7dcb-40ec-acca-da328a5e4149/index.html</link>
             <guid isPermaLink="false">c55cef20-7dcb-40ec-acca-da328a5e4149</guid>
-            <pubDate>Fri, 11 Mar 2016 20:45:09 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 20:59:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
