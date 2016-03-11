@@ -1,6 +1,6 @@
 name: PlayHard Entertainment
 favicon: null
-layout_spectrum: 0.12891
+layout_spectrum: 1
 typography_spectrum: 0.4699
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#ff0000'
     - '#838281'
     - '#ff8181'
-  brandStrength: 0.625
-  lightness: 0.375
-  saturation: 0.2934055831283331
-  rhythmicContrast: 0.5
+  brandStrength: 0.8125
+  lightness: 0
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
