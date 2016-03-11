@@ -1,0 +1,28 @@
+name: PlayHard Entertainment
+favicon: null
+layout_spectrum: 0.8692923043854535
+typography_spectrum: 0.3495622824411839
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5957284686155617
+  lightness: 0.8986211693845689
+  saturation: 0.2934055831283331
+  rhythmicContrast: 0.1770399766974151
+purpose: []
